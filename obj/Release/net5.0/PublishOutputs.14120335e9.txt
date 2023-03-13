@@ -1,0 +1,12 @@
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\EmailService.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\EmailService.deps.json
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\EmailService.pdb
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\MailKit.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\Microsoft.Extensions.Primitives.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\MimeKit.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\NETCore.MailKit.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\BouncyCastle.Crypto.dll
+C:\Users\Ks34\Documents\VS_Prodject\ShopAPI\published\System.IO.Pipelines.dll

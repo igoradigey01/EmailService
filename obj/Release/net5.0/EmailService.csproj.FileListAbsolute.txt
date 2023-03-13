@@ -1,0 +1,12 @@
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\bin\Release\net5.0\EmailService.deps.json
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\bin\Release\net5.0\EmailService.dll
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\bin\Release\net5.0\EmailService.pdb
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.csproj.AssemblyReference.cache
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.AssemblyInfoInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.AssemblyInfo.cs
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.dll
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\refint\EmailService.dll
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\EmailService.pdb
+C:\Users\Ks34\Documents\VS_Prodject\EmailService\obj\Release\net5.0\ref\EmailService.dll
